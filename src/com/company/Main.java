@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello world (Task-1)");
         System.out.println("Hello world (task-2)");
         System.out.println("Hello world (task-3)");
+        System.out.println("Hello world (task-4)");
     }
 }
